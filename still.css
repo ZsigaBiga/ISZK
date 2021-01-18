@@ -46,3 +46,17 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/*===HELPER COLORS===*/
+
+.main-header {
+	background-color: rgba(205, 138, 58, 1);
+}
+
+.main-content {
+	background-color: rgba(66, 89, 147, 1);
+}
+
+.article {
+	background-color: rgba(99, 54, 206);
+}
